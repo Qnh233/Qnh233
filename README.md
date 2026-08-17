@@ -5,20 +5,15 @@
 </p>
 
 ## 👨‍💻 关于我
-- 🚀 领域：Web 开发 / 自动化工具 / AI 应用落地  
-- 🌱 当前状态：持续学习中，专注于把创意变成可运行的产品  
-- 🤝 欢迎语：欢迎交流想法、项目合作、技术讨论
+- 🚀 人
+- 🌱 干
+- 🤝 欢迎来干
 
 ## 🧰 技术栈掌握度
-![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-80%25-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-78%25-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-82%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-88%25-F05032?style=for-the-badge&logo=git&logoColor=fff)
-
+  解放双手，无中生有。
 ## 📫 联系方式
 - GitHub: [@Qnh233](https://github.com/Qnh233)
-- Email: `qnh233@outlook.com`
+- Email: `qiongnianhao@163.com`
 
 ## 📊 代码提交仪表盘
 <p>
